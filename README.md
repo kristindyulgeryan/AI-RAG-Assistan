@@ -23,15 +23,14 @@ A high-precision Retrieval-Augmented Generation (RAG) application built as part 
 4. **Storage:** Embeddings are stored in a ChromaDB vector store for fast similarity search.
 5. **RAG Pipeline:** When a question is asked, the system retrieves the most relevant chunks and passes them to the LLM for a grounded answer.
 
-## 📸 Preview
-![Assistant Interface](./QA_bot.png) 
-
+## 📸 Preview 
+<p align="left">
+  <img src="./QA_bot.png" alt="IBM Generative AI Project Preview" width="600">
+</p>
 
 ## 🎓 Certification
 Developed during the **Mastering Generative AI: RAG and LangChain** course by **IBM & edX**.
 
 * **Official Certificate:** [Verify on edX](https://courses.edx.org/certificates/225bda1a67a546fba894cd5c7b3165ad)
 
-<p align="left">
-  <img src="./QA_bot.png" alt="IBM Generative AI Project Preview" width="600">
-</p>
+
