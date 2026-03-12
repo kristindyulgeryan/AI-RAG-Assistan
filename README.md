@@ -32,5 +32,3 @@ A high-precision Retrieval-Augmented Generation (RAG) application built as part 
 Developed during the **Mastering Generative AI: RAG and LangChain** course by **IBM & edX**.
 
 * **Official Certificate:** [Verify on edX](https://courses.edx.org/certificates/225bda1a67a546fba894cd5c7b3165ad)
-
-
